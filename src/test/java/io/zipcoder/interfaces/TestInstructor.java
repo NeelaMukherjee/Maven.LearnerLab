@@ -67,5 +67,32 @@ public class TestInstructor {
 
     }
 
+    /////@Test
+    //    public void testLecture(){
+    //        // Given
+    //        Instructor instructor = new Instructor(1234567);
+    //        Student student1 = new Student(1);
+    //        Student student2 = new Student(2);
+    //        Student student3 = new Student(3);
+    //        Student[] studentsExpected = new Student[3];
+    //        studentsExpected[0] = student1;
+    //        studentsExpected[1] = student2;
+    //        studentsExpected[2] = student3;
+    //
+    //        for(int i = 0; i < 3; i++){
+    //            studentsExpected[i].learn(5);
+    //        }
+    //
+    //        // When
+    //        Student[] studentsActual = new Student[3];
+    //        studentsActual[0] = student1;
+    //        studentsActual[1] = student2;
+    //        studentsActual[2] = student3;
+    //
+    //        instructor.lecture(studentsActual, 15);
+    //
+    //        // Then
+    //        Assert.assertArrayEquals(studentsExpected, studentsActual); }
+
 
 }
